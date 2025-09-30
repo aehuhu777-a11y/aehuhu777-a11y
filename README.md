@@ -1,6 +1,6 @@
 fl<div>
   <!--Header-->
-  ![header](![header](https://capsule-render.vercel.app/api?type=blur&text=Hi!-i'm-hu!&fontSize=50"&color=auto)
+  (https://capsule-render.vercel.app/api?type=blur&text=Hi!-i'm-hu!&fontSize=50"&color=auto)
   
 </div>
 
