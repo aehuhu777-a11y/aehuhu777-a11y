@@ -1,29 +1,29 @@
-<div>
+fl<div>
   <!--Header-->
-   ![header](https://capsule-render.vercel.app/api?type=blur&text=Hi!-i'm-hu!&fontSize=50"&color=auto)
+   ![header](https://capsule-render.vercel.app/api?type=blur&text=hu!&fontSize=50"&color=auto&height=300)
   
 </div>
 
 <div>
   <!--Body-->
   
-  ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
-  #### :fire: I aim to become a ...<br/>
-  #### :mortar_board: ...
+  ## 👀 Aspiration
+  ### 지금부터 시작하는 건후의 개발자 이야기! 😄
+  ### 🐢 "계속 나아가라. 느려도 괜찮다. 멈추지 말자." 🐢 <br/>
+  #### 🌱 🌱 🌱 아직 많이 서투르지만, 하나하나 배워나가는 성장형 개발자! 🌱 🌱 🌱
   <br/>
   <br/>
   
   ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <!--HTML-->
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <!--PYTHON-->
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <!--JAVA-->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <br/>
   
   ### Framework
@@ -42,9 +42,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
 </div>
 
